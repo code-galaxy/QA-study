@@ -1,4 +1,4 @@
-const data = [
+const dataset = [
 	{
 		"name": "Rose Hill",
 		"phone": "1-568-223-4245",
