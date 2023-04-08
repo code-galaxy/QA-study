@@ -47,7 +47,6 @@ describe('Check the Search Functionality - Header', () => {
          .should('be.contain', 'No results were found for your search')
    })
 
-
    it('Check the Search - enter the "space"', () => {
       cy.visit('http://automationpractice.pl/index.php')
       cy.viewport(1920, 1080)
@@ -61,5 +60,4 @@ describe('Check the Search Functionality - Header', () => {
          .should('be.visible')
          .should('be.contain', 'No results were found for your search')
    })
-
 })
