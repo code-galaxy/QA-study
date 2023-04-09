@@ -1,6 +1,5 @@
 describe('My Account ', () => {
 
-  //  Given, When, Then or "Arrange, Act, Assert".
   it('Add my first address', () => {
     cy.visit('http://automationpractice.pl/index.php')
     cy.viewport(1920, 1080)
