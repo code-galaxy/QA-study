@@ -1,0 +1,104 @@
+one liner
+As a <type of user>, I want <some goal> so that <some reason> 
+
+User Stories - are short, 
+simple description of a feature told from the perspective 
+of the person who desires the new capability, usually a user or customer of the system. 
+
+User Stories typically follow a simple template: 
+
+As a <type of user>, I want <some goal> so that <some reason> 
+---------------------------------------------------------------
+1. As an airline passenger, 
+   I want to be able to check flight status on my mobile app
+   so I can make my flight
+---------------------------------------------------------------
+2. As an admin,
+   I want to ban people 
+   to avoid spam and insults
+---------------------------------------------------------------
+3. As a seller,
+   I want to change the price of an item
+   to show the item on sale
+---------------------------------------------------------------
+4. As a customer, 
+   I want to add the product to my favorites 
+   to have quick access to the product
+---------------------------------------------------------------
+5. As a non-registered user,
+   I want to register
+   to login
+---------------------------------------------------------------
+6. As a tourist, I want to book a hotel room.
+---------------------------------------------------------------
+7. As a vacation planner, I want to see pictures of hotels.
+---------------------------------------------------------------
+8. As a user, 
+   I want to print documents 
+   so I can work on them away from my computer.
+---------------------------------------------------------------
+9. As a user,
+   I want my credentials automatically filled out,
+   so that I can access my account without re-entering them.
+---------------------------------------------------------------
+10. As a user,
+    I want to apply search filters,
+    so that I can find an item.
+---------------------------------------------------------------
+11. As a site member,
+    I want to add a profile description,
+    so that others can learn about me.
+---------------------------------------------------------------
+12. As a UI designer,
+    I want to view an issue,
+    so that I know what to track and test. 
+---------------------------------------------------------------
+13.  As a user,
+     I want to receive notifications via emails,
+     so that I stay updated
+---------------------------------------------------------------
+14. As a doc editor,
+    I want to autocorrect detected spelling mistakes in an active document,
+    so that I have no spelling mistakes in the doc.
+---------------------------------------------------------------
+15. As a passenger,
+    I want to get my taxi in less than 120 seconds after I press to confirm the pick-up point
+    so that I don’t have to wait long.
+---------------------------------------------------------------
+16. As a Traveler,
+    I want to know my precise location every second,
+    so that I don’t get lost.
+---------------------------------------------------------------
+17. As a user,
+    I want to see money that I owe,
+    so that I can make a payment list.
+---------------------------------------------------------------
+18. As a customer, 
+    I would like to download my account statement 
+    so that I can view all of my transactions for a given period.
+---------------------------------------------------------------
+19. As a potential customer 
+    I want to read book reviews 
+    so that I can decide which one to buy 
+---------------------------------------------------------------
+20. As a credit card holder,
+    I want to view my statement balance,
+    so that I can pay the balance due
+---------------------------------------------------------------
+
+
+INVEST
+За критеріями INVEST ми можемо судити, чи добре написана User Story і чи можна над нею працювати.
+I – INDEPENDENT – НЕЗАЛЕЖНИЙ (Reduced dependencies = easier to plan)
+N – NEGOTIABLE – ОБГОВОРЮВАНИЙ (Details added via collaboration)
+V – VALUABLE – ЦІННИЙ (виконання історії наблизить нас до глобальної цілі продукту)
+E – ESTIMABLE – ОЦІНЮВАНИЙ (Too big or too vague = not estimable)
+S – SMALL – КОМПАКТНИЙ (Can be done in less than a week by the team)
+T – TESTABLE – ТЕСТУЄМИЙ (Good acceptance criteria)
+
+SMART
+Specific        – конкретна 
+Measurable      – вимірювальна 
+Achievable      – досягаєма
+Result-oriented – орієнтована на результат, а не на процесс. 
+Time-limited    – обмежена по часу
