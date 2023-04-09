@@ -1,7 +1,6 @@
 describe('CREATE AN ACCOUNT', () => {
 
-  //  Given, When, Then or "Arrange, Act, Assert".
-  it('CREATE AN ACCOUNT', () => {
+   it('CREATE AN ACCOUNT', () => {
     cy.visit('http://automationpractice.pl/index.php')
     cy.viewport(1920, 1080)
     cy.contains('Sign in').click()
