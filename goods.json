@@ -1,14 +1,26 @@
 [
     {
-        "articul": "284s",
+        "articul": "284",
         "title": "Apple",
         "cost": 70,
         "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png"
     },
     {
-        "articul": "2s8d",
+        "articul": "285",
         "title": "Lemon",
         "cost": 40,
         "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png"
+    },
+    {
+        "articul": "286",
+        "title": "Banana",
+        "cost": 55,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Banana-64.png"
+    },
+    {
+        "articul": "287",
+        "title": "Grape",
+        "cost": 60,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Grape-64.png"
     }
 ]
