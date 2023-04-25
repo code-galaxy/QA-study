@@ -1,0 +1,14 @@
+[
+    {
+        "articul": "284s",
+        "title": "Apple",
+        "cost": 70,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Apple-64.png"
+    },
+    {
+        "articul": "2s8d",
+        "title": "Lemon",
+        "cost": 40,
+        "image": "https://cdn0.iconfinder.com/data/icons/fruity-3/512/Lemon-64.png"
+    }
+]
